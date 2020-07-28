@@ -15,7 +15,7 @@ module requests
 ```
 $ pkg install python2
 $ pip2 install requests
-$ git clone https://github.com/AnonRoz-Team/domain-to-ip
+$ git clone https://github.com/AnonRoz-Team/priv8-scr
 $ cd priv8-scr
   Target website with http or https
 $ python2 scr.py hacked-by-ASU list-web.txt
